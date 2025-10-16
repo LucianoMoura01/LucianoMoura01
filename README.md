@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá, eu sou o(a) [Seu Nome Completo ou Nickname] 👋
+# Olá, Sou Luciano Moura 👋
+# Seja Bem Vindo 
 
 Bem-vindo(a) ao meu perfil no GitHub! Sou [Sua Área/Título, ex: Desenvolvedor Front-end, Estudante de Ciência de Dados, Entusiasta de Tecnologia].
 
@@ -25,24 +26,28 @@ Aqui estão algumas tecnologias com as quais eu trabalho ou estou aprendendo:
 
 | Categoria | Habilidades |
 | :---: | :---: |
-| **Linguagens** | `JavaScript` / `TypeScript` |
-| **Front-end** | `React`/ `HTML` / `CSS` |
-| **Back-end** | `Node.js`|
+| **Linguagens** | `JavaScript`  |
+| **Front-end** | `HTML` / `CSS` |
+| **Back-end** | `...`|
 |
 
 
 ---
 
+## Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
+          
+
+
 ## 📈 Estatísticas do GitHub
 
-> **⚠️ IMPORTANTE:** Substitua `SEU_USERNAME` pelo seu nome de usuário do GitHub nas URLs abaixo.
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&theme=chartreuse-dark&show_icons=true&rank_icon=github" alt="Estatísticas do GitHub do SEU_USERNAME" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LucianoMoura01&theme=chartreuse-dark&show_icons=true&rank_icon=github" alt="Estatísticas do GitHub do LucianoMoura01" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=chartreuse-dark" alt="Linguagens Mais Usadas do SEU_USERNAME" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoMoura01&layout=compact&theme=chartreuse-dark" alt="Linguagens Mais Usadas do LucianoMoura01" />
 </p>
 
 ---
@@ -51,9 +56,9 @@ Aqui estão algumas tecnologias com as quais eu trabalho ou estou aprendendo:
 
 | Rede Social | Link |
 | :---: | :---: |
-| **LinkedIn** | [Meu Perfil no LinkedIn](LINK_DO_SEU_LINKEDIN) |
+| **LinkedIn** | [Luciano Moura] (www.linkedin.com/in/luciano-moura-dev) |
 | **Website/Portfólio**| [Meu Site Pessoal](LINK_DO_SEU_WEBSITE) |
-| **E-mail** | `seu.email@exemplo.com` |
+| **E-mail** | lucianomoura.dev@gmail.com |
 | **Outro** | [Seu Linktree, Medium, etc.](OUTRO_LINK) |
 
 ---
