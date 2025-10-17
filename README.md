@@ -1,70 +1,123 @@
-<!--
-**LucianoMoura01/LucianoMoura01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  
+# 👋 Olá, eu sou Luciano Moura!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Desenvolvedor Front-end | 🎓 Formado em Análise e Desenvolvimento de Software | 🚀 Entusiasta de Tecnologia
 
-# Olá, Sou Luciano Moura 👋
-# Seja Bem Vindo 
-
-Bem-vindo(a) ao meu perfil no GitHub! Sou [Sua Área/Título, ex: Desenvolvedor Front-end, Estudante de Ciência de Dados, Entusiasta de Tecnologia].
-
-Atualmente, estou focado(a) em [O que você está trabalhando, ex: projetos em React, estudando Python, Open Source].
-
-## 🚀 Minhas Habilidades e Interesses
-
-Aqui estão algumas tecnologias com as quais eu trabalho ou estou aprendendo:
-
-| Categoria | Habilidades |
-| :---: | :---: |
-| **Linguagens** | `JavaScript`  |
-| **Front-end** | `HTML` / `CSS` |
-| **Back-end** | `...`|
-|
-
+</div>
 
 ---
 
-## Estou aprendendo
+## 🧑‍💻 Sobre Mim
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
+🔭 **Atualmente trabalhando em:** Projetos de desenvolvimento web com foco em interfaces modernas e responsivas
+
+🌱 **Aprendendo:** TypeScript, React e melhores práticas de desenvolvimento
+
+🎯 **Objetivo:** Me tornar um bom desenvolvedor Front-End
+
+� **Apaixonado por:** Resolver problemas através da tecnologia e criar experiências digitais incríveis
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### 💻 Linguagens
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+### 🎨 Front-end
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
+
+### 🌐 Ferramentas & Tecnologias
+<div align="center">
+  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📚 Atualmente Estudando
+
+<div align="center">
+  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
+
+---
+
+## 🎯 Próximos Passos
+
+<div align="center">
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
           
+---
 
+## 📊 Estatísticas do GitHub
 
-## 📈 Estatísticas do GitHub
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoMoura01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoMoura01&layout=compact&langs_count=7&theme=tokyonight"/>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LucianoMoura01&theme=chartreuse-dark&show_icons=true&rank_icon=github" alt="Estatísticas do GitHub do LucianoMoura01" />
-</p>
+</div>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoMoura01&layout=compact&theme=chartreuse-dark" alt="Linguagens Mais Usadas do LucianoMoura01" />
-</p>
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucianoMoura01&theme=tokyonight)
+
+</div>
 
 ---
 
-## 🔗 Conecte-se Comigo
+## 🏆 Contribuições
 
-| Rede Social | Link |
-| :---: | :---: |
-| **LinkedIn** | [Luciano Moura] (www.linkedin.com/in/luciano-moura-dev) |
-| **Website/Portfólio**| [Meu Site Pessoal](LINK_DO_SEU_WEBSITE) |
-| **E-mail** | lucianomoura.dev@gmail.com |
-| **Outro** | [Seu Linktree, Medium, etc.](OUTRO_LINK) |
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucianoMoura01&theme=tokyo-night)
+
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-moura-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucianoMoura01/my-main-project)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianomoura.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/melo.bzr)
+
+</div>
 
 ---
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=green" alt="Contador de visualizações do perfil" />
-</p>
+<div align="center">
+  
+### 💡 *"Código limpo não é apenas sobre sintaxe, é sobre comunicar intenções claras."*
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=LucianoMoura01&color=brightgreen&style=for-the-badge)
+
+</div>
