@@ -83,12 +83,6 @@
 
 </div>
 
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucianoMoura01&theme=tokyonight)
-
-</div>
-
 ---
 
 ## 🏆 Contribuições
