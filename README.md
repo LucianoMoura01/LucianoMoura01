@@ -68,7 +68,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
           
@@ -110,7 +109,7 @@
 
 <div align="center">
   
-### 💡 *"Código limpo não é apenas sobre sintaxe, é sobre comunicar intenções claras."*
+### 💡 *"Desenvolver é transformar ideias abstratas em realidades funcionais. É pura magia lógica."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LucianoMoura01&color=brightgreen&style=for-the-badge)
 
