@@ -1,3 +1,4 @@
+<div style="background-image: url('https://t3.ftcdn.net/jpg/04/70/73/64/360_F_470736409_BjMO4XuHintvApcIyuJM7DR65rTfWdXQ.jpg'); background-size: cover; background-attachment: fixed; padding: 40px 20px;">
 
 <div align="center">
   
@@ -23,7 +24,7 @@
 
 ## 🛠️ Stack Tecnológica
 
-### 💻 Linguagens
+### 💻 Linguagens de Programação
 <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,14 +33,14 @@
 
 </div>
 
-### 🎨 Front-end
+### 🎨 Frameworks Front-end
 <div align="center">
   
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
-### 🌐 Ferramentas & Tecnologias
+### 🌐 Ferramentas e Tecnologias
 <div align="center">
   
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,7 +62,7 @@
 
 ---
 
-## 🎯 Próximos Passos
+## 🎯 Tecnologias a Aprender
 
 <div align="center">
 
@@ -77,10 +78,21 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoMoura01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoMoura01&layout=compact&langs_count=7&theme=tokyonight"/>
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LucianoMoura01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/LucianoMoura01)
+
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucianoMoura01&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/LucianoMoura01)
 
 </div>
+
+---
+
+### 🏆 Troféus do Perfil GitHub
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=LucianoMoura01&theme=onedark&column=8" />
+  </a>
+</p>
 
 ---
 
@@ -94,7 +106,7 @@
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🌐 Entre em Contato
 
 <div align="center">
   
@@ -108,9 +120,48 @@
 ---
 
 <div align="center">
-  
-### 💡 *"Desenvolver é transformar ideias abstratas em realidades funcionais. É pura magia lógica."*
+
+<div align="center">
+
+<style>
+  @keyframes typewriter {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+
+  @keyframes blink {
+    50% {
+      border-color: transparent;
+    }
+  }
+
+  .typewriter {
+    overflow: hidden;
+    border-right: 3px solid #00ff00;
+    white-space: normal;
+    margin: 0 auto;
+    letter-spacing: 2px;
+    animation: typewriter 6s steps(70, end), blink 0.7s infinite;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #00ff00;
+    text-shadow: 0 0 10px #00ff00, 0 0 20px #0099ff;
+    font-family: 'Courier New', monospace;
+    padding: 20px;
+    max-width: 600px;
+    display: block;
+    margin: 0 auto;
+  }
+</style>
+
+### 💡 <span class="typewriter">"Desenvolver é transformar ideias abstratas em realidades funcionais. É pura magia lógica."</span>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LucianoMoura01&color=brightgreen&style=for-the-badge)
+
+</div>
 
 </div>
