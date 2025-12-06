@@ -120,45 +120,8 @@
 ---
 
 <div align="center">
-
-<div align="center">
-
-<style>
-  @keyframes typewriter {
-    from {
-      width: 0;
-    }
-    to {
-      width: 100%;
-    }
-  }
-
-  @keyframes blink {
-    50% {
-      border-color: transparent;
-    }
-  }
-
-  .typewriter {
-    overflow: hidden;
-    border-right: 3px solid #00ff00;
-    white-space: normal;
-    margin: 0 auto;
-    letter-spacing: 2px;
-    animation: typewriter 6s steps(70, end), blink 0.7s infinite;
-    font-size: 1.2em;
-    font-weight: bold;
-    color: #00ff00;
-    text-shadow: 0 0 10px #00ff00, 0 0 20px #0099ff;
-    font-family: 'Courier New', monospace;
-    padding: 20px;
-    max-width: 600px;
-    display: block;
-    margin: 0 auto;
-  }
-</style>
-
-### 💡 <span class="typewriter">"Desenvolver é transformar ideias abstratas em realidades funcionais. É pura magia lógica."</span>
+  
+### 💡 "Desenvolver é transformar ideias abstratas em realidades funcionais. É pura magia lógica."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LucianoMoura01&color=brightgreen&style=for-the-badge)
 
