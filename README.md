@@ -14,7 +14,7 @@
 
 🔭 **Atualmente trabalhando em:** Projetos de desenvolvimento web com foco em interfaces modernas e responsivas
 
-🌱 **Aprendendo:** TypeScript, React e melhores práticas de desenvolvimento
+🌱 **Aprendendo:** React e melhores práticas de desenvolvimento
 
 🎯 **Objetivo:** Me tornar um bom desenvolvedor Front-End
 
