@@ -90,7 +90,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=LucianoMoura01&theme=onedark&column=8" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LucianoMoura01&theme=onedark&column=8&row=1" alt="Troféus do GitHub" />
   </a>
 </p>
 
