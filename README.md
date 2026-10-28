@@ -2,29 +2,29 @@
 
 <div align="center">
   
-# 👋 Olá, eu sou Luciano Moura!
+# Olá, eu sou Luciano Moura!
 
-### 💻 Desenvolvedor Front-end | 🎓 Formado em Análise e Desenvolvimento de Software | 🚀 Entusiasta de Tecnologia
+### Desenvolvedor Front-end | Formado em Análise e Desenvolvimento de Software | Entusiasta de Tecnologia
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre Mim
+## Sobre Mim
 
-🔭 **Atualmente trabalhando em:** Projetos de desenvolvimento web com foco em interfaces modernas e responsivas
+ **Atualmente trabalhando em:** Projetos de desenvolvimento web com foco em interfaces modernas e responsivas
 
-🌱 **Aprendendo:** React e melhores práticas de desenvolvimento
+ **Aprendendo:** React e melhores práticas de desenvolvimento
 
-🎯 **Objetivo:** Me tornar um bom desenvolvedor Front-End
+ **Objetivo:** Me tornar um bom desenvolvedor Front-End
 
-� **Apaixonado por:** Resolver problemas através da tecnologia e criar experiências digitais incríveis
+ **Apaixonado por:** Resolver problemas através da tecnologia e criar experiências digitais incríveis
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
-### 💻 Linguagens de Programação
+### Linguagens de Programação
 <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,14 +33,14 @@
 
 </div>
 
-### 🎨 Frameworks Front-end
+### Frameworks Front-end
 <div align="center">
   
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
-### 🌐 Ferramentas e Tecnologias
+### Ferramentas e Tecnologias
 <div align="center">
   
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -51,7 +51,7 @@
 
 ---
 
-## 📚 Atualmente Estudando
+## Atualmente Estudando
 
 <div align="center">
   
@@ -62,7 +62,7 @@
 
 ---
 
-## 🎯 Tecnologias a Aprender
+## Tecnologias a Aprender
 
 <div align="center">
 
@@ -74,7 +74,7 @@
           
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   
@@ -86,7 +86,7 @@
 
 ---
 
-## 🏆 Contribuições
+## Contribuições
 
 <div align="center">
   
@@ -96,7 +96,7 @@
 
 ---
 
-## 🌐 Entre em Contato
+## Entre em Contato
 
 <div align="center">
   
@@ -111,7 +111,7 @@
 
 <div align="center">
   
-### 💡 "Desenvolver é transformar ideias abstratas em realidades funcionais. É pura magia lógica."
+### "Desenvolver é transformar ideias abstratas em realidades funcionais. É pura magia lógica."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LucianoMoura01&color=brightgreen&style=for-the-badge)
 
