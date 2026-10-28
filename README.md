@@ -78,9 +78,9 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LucianoMoura01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/LucianoMoura01)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianoMoura01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/LucianoMoura01)
 
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucianoMoura01&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/LucianoMoura01)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoMoura01&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/LucianoMoura01)
 
 </div>
 
@@ -90,7 +90,7 @@
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucianoMoura01&theme=tokyo-night)
+![GitHub Contributions](https://ghchart.rshah.org/409ba5/LucianoMoura01)
 
 </div>
 
