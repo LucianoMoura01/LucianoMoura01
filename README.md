@@ -13,7 +13,7 @@
 
 ## Sobre
 
-Construo aplicações Fullstack pensando primeiro no problema e em quem vai usar. Gosto de entender o terreno antes de escolher o caminho — seja explorando uma rota no mapa ou começando um projeto do zero. O crafting fica no código; sem precisar derrubar árvores.
+Construo aplicações Fullstack pensando primeiro no problema e em quem vai usar. Gosto de entender o terreno antes de escolher o caminho seja explorando uma rota no mapa ou começando um projeto do zero. O crafting fica no código; sem precisar derrubar árvores.
 
 ## Tecnologias
 
@@ -26,10 +26,10 @@ Construo aplicações Fullstack pensando primeiro no problema e em quem vai usar
 
 ### [Moura Tracker](https://github.com/LucianoMoura01/Sistema-de-Gest-o-de-Frotas-e-Rotas)
 
-Uma aplicação web de gestão de frotas feita com JavaScript puro, HTML/CSS e LocalStorage. A demo permite acompanhar veículos e motoristas, calcular rotas no mapa com Leaflet/OSRM, consultar dados de auditoria e controlar informações financeiras localmente — tudo direto no navegador, sem backend.
+Uma aplicação web de gestão de frotas feita com JavaScript puro, HTML/CSS e LocalStorage. A demo permite acompanhar veículos e motoristas, calcular rotas no mapa com Leaflet/OSRM, consultar dados de auditoria e controlar informações financeiras localmente, tudo direto no navegador, sem backend.
 
 O projeto também explora código modular, manipulação do DOM e integração com bibliotecas externas sem colocar um framework pesado em cada problema. Um pequeno posto avançado para organizar a jornada da frota.
 
 ## Fora do editor
 
-Lord of the Rings, Skyrim e jogos de survival como Valheim. Gosto de mundos que recompensam exploração, planejamento e aquele hábito de coletar recursos antes de sair — habilidades que, curiosamente, também ajudam em projetos de software.
+Lord of the Rings, Skyrim e jogos de survival como Valheim. Gosto de mundos que recompensam exploração, planejamento e aquele hábito de coletar recursos antes de sair, habilidades que, curiosamente, também ajudam em projetos de software.
